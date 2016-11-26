@@ -20,7 +20,28 @@
             },
             "sha": "09d531adbac990d8897f8fb971ceba19a84c53dc",
             "update_date": "26-11-2016"
+        },
+        "kinmanz": {
+            "data_url": "https://raw.githubusercontent.com/kinmanz/GitFaceCV-storage3/master/CVs/kinmanz.GitFace.json",
+            "profile_info": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/15079022?v=3",
+                "bio": null,
+                "blog": null,
+                "company": null,
+                "created_at": "2015-10-11T19:57:58Z",
+                "email": "luga2012@yandex.ru",
+                "followers": 0,
+                "html_url": "https://github.com/kinmanz",
+                "location": "Saint-Petersburg",
+                "login": "kinmanz",
+                "name": "Serega Luchko ",
+                "organisations": [],
+                "public_repos": 22,
+                "repos_url": "https://github.com/kinmanz?tab=repositories"
+            },
+            "sha": "09d531adbac990d8897f8fb971ceba19a84c53dc",
+            "update_date": "26-11-2016"
         }
     },
-    "records": 1
+    "records": 2
 }
